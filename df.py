@@ -18,6 +18,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+This is my personal repository and contains materials developed by me. By downloading or using materials from this repository, you acknowledge that you are not receiving any type of license from Facebook (my employer) related to any materials in this repository. 
 """
 
 from google.appengine.api import memcache
